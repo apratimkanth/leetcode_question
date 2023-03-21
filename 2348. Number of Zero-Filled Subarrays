@@ -20,3 +20,5 @@ public:
         return ans;
     }
 };
+
+hint - no. of subarray formed from n number is  n*(n+1)/2 . so in this question count the number of n consecutive zeros and try this formula. you will get the answer
